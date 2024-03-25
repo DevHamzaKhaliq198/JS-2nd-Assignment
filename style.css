@@ -1,0 +1,9 @@
+/* HTML page styling */
+.navbar,footer{
+background-color:rgb(1, 1, 45);
+
+}
+/* jS page styling */
+#description{
+    color:red;
+}
